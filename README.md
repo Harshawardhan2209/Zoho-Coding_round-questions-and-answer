@@ -1,13 +1,5 @@
 # asqre-zoho_Coding-round-answer
 
-/*    
-        ॐ नमः शिवाय
-    कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
-    मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
-*/
-
-/*
-
 // Question -1
 #include <bits/stdc++.h>
 using namespace std;
